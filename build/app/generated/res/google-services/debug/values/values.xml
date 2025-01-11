@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">367389308612</string>
+    <string name="google_api_key" translatable="false">AIzaSyBG5IABwcV31NrrjuEtqbj1ZjAFeN6qSeg</string>
+    <string name="google_app_id" translatable="false">1:367389308612:android:d05503c57e1dbde7003b91</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBG5IABwcV31NrrjuEtqbj1ZjAFeN6qSeg</string>
+    <string name="google_storage_bucket" translatable="false">spotify-clone-project-1.firebasestorage.app</string>
+    <string name="project_id" translatable="false">spotify-clone-project-1</string>
+</resources>
